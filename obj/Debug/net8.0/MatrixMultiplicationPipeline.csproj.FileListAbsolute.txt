@@ -1,0 +1,14 @@
+C:\4KTASIN\MatrixMultiplicationPipeline\bin\Debug\net8.0\MatrixMultiplicationPipeline.exe
+C:\4KTASIN\MatrixMultiplicationPipeline\bin\Debug\net8.0\MatrixMultiplicationPipeline.deps.json
+C:\4KTASIN\MatrixMultiplicationPipeline\bin\Debug\net8.0\MatrixMultiplicationPipeline.runtimeconfig.json
+C:\4KTASIN\MatrixMultiplicationPipeline\bin\Debug\net8.0\MatrixMultiplicationPipeline.dll
+C:\4KTASIN\MatrixMultiplicationPipeline\bin\Debug\net8.0\MatrixMultiplicationPipeline.pdb
+C:\4KTASIN\MatrixMultiplicationPipeline\obj\Debug\net8.0\MatrixMultiplicationPipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\4KTASIN\MatrixMultiplicationPipeline\obj\Debug\net8.0\MatrixMultiplicationPipeline.AssemblyInfoInputs.cache
+C:\4KTASIN\MatrixMultiplicationPipeline\obj\Debug\net8.0\MatrixMultiplicationPipeline.AssemblyInfo.cs
+C:\4KTASIN\MatrixMultiplicationPipeline\obj\Debug\net8.0\MatrixMultiplicationPipeline.csproj.CoreCompileInputs.cache
+C:\4KTASIN\MatrixMultiplicationPipeline\obj\Debug\net8.0\MatrixMultiplicationPipeline.dll
+C:\4KTASIN\MatrixMultiplicationPipeline\obj\Debug\net8.0\refint\MatrixMultiplicationPipeline.dll
+C:\4KTASIN\MatrixMultiplicationPipeline\obj\Debug\net8.0\MatrixMultiplicationPipeline.pdb
+C:\4KTASIN\MatrixMultiplicationPipeline\obj\Debug\net8.0\MatrixMultiplicationPipeline.genruntimeconfig.cache
+C:\4KTASIN\MatrixMultiplicationPipeline\obj\Debug\net8.0\ref\MatrixMultiplicationPipeline.dll
