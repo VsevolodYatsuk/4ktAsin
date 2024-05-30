@@ -45,7 +45,7 @@ class Program
     }
 }
 ```
-##M atrix
+## Matrix
 
 ```csharp
 public class Matrix
@@ -101,6 +101,7 @@ public class Matrix
         return await computeTask;
     }
 }
+```
 
 ##Вывод:
 
